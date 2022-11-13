@@ -4,7 +4,7 @@ Glad to meet you! I'm ***Jonny***, a full stack web developer based in Toronto �
 ## 🚀 Projects
 | Project | ⭐ Starts | 🍴 Forks | ⚠️ Issues | 🛎️ Pull/Requests | 🔗 Link |
 |---|:-:|:-:|:-:|:-:|:-:|
-| [TT-See](https://github.com/jodoubleny/tt-see) / [TT-See Server](https://github.com/jodoubleny/tt-see-server) |  |  |  |  | [Github.io](https://jodoubleny.github.io/tt-see) |
+| [TT-See](https://github.com/jodoubleny/tt-see) |  |  |  |  | [Github.io](https://jodoubleny.github.io/tt-see) |
 
 ## 📫 Contact Me
 [![](https://img.shields.io/badge/parkqm@gmail.com-EA4335?logo=gmail&style=for-the-badge&logoColor=white)](mailto:parkqm@gmail.com) 
