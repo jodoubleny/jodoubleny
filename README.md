@@ -1,9 +1,15 @@
 # Bangawoyo!👋
 Glad to meet you! I'm ***Jonny***, a full stack web developer based in Toronto 🇨🇦.
+I still remember the moment I created my very first website with Microsoft FrontPage when I was young.
+I was drawn to and fascinated by the early era of web technology from then.
+Over the years, web technology has significantly changed, but my passion and love for it haven't diminished.
+I believe the infinite possibility of the web that has a positive impact on our society by bridging the virtual environment and real life.
+
 
 ## 🚀 Projects
 | Project | ⭐ Starts | 🍴 Forks | ⚠️ Issues | 🛎️ Pull/Requests | 🔗 Link |
 |---|:-:|:-:|:-:|:-:|:-:|
+| [Front-Page](https://github.com/jodoubleny/jodoubleny.github.io) |  |  |  |  | [Github.io](https://jodoubleny.github.io/) |
 | [TT-See](https://github.com/jodoubleny/tt-see) |  |  |  |  | [Github.io](https://jodoubleny.github.io/tt-see) |
 
 ## 📫 Contact Me
