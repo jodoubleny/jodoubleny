@@ -9,8 +9,8 @@ I believe the infinite possibility of the web that has a positive impact on our 
 ## 🚀 Projects
 | Project | ⭐ Starts | 🍴 Forks | ⚠️ Issues | 🛎️ Pull/Requests | 🔗 Link |
 |---|:-:|:-:|:-:|:-:|:-:|
-| [Front-Page](https://github.com/jodoubleny/jodoubleny.github.io) |  |  |  |  | [Github.io](https://jodoubleny.github.io/) |
-| [TT-See](https://github.com/jodoubleny/tt-see) |  |  |  |  | [Github.io](https://jodoubleny.github.io/tt-see) |
+| [Front-Page](https://github.com/jonpardev/jonpardev.github.io) |  |  |  |  | [Github.io](https://jonpardev.github.io/) |
+| [TT-See](https://github.com/jonpardev/tt-see) |  |  |  |  | [Github.io](https://jonpardev.github.io/tt-see) |
 
 ## 📫 Contact Me
 [![](https://img.shields.io/badge/parkqm@gmail.com-EA4335?logo=gmail&style=for-the-badge&logoColor=white)](mailto:parkqm@gmail.com) 
