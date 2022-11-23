@@ -14,7 +14,7 @@ I believe the infinite possibility of the web that has a positive impact on our 
 | [Boilerplate: React+Express+TS](https://github.com/jonpardev/boilerplate-react-express-ts) |  |  |  |  |  |
 
 ## 📫 Contact Me
-[![](https://img.shields.io/badge/parkqm@gmail.com-EA4335?logo=gmail&style=for-the-badge&logoColor=white)](mailto:parkqm@gmail.com) 
+[![](https://img.shields.io/badge/jonpardev@gmail.com-EA4335?logo=gmail&style=for-the-badge&logoColor=white)](mailto:jonpardev@gmail.com) 
 [![](https://img.shields.io/badge/jonnypark-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/jonnypark)
 
 ## ⚒️ My Tools
